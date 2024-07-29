@@ -1,0 +1,16 @@
+{
+    "key": "value",
+    "another-label": 100,
+    "key2":{
+        "nested-01":1
+    },
+    "key3":[0,1,2],
+    "key4":[
+        {
+            "my-key":"ok"
+        },
+        {
+            "my-key":"ng"
+        }
+    ]
+}
