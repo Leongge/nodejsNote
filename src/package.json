@@ -1,0 +1,23 @@
+{
+  "name": "nodejsnote",
+  "version": "1.0.0",
+  "description": "To record note js learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leongge/nodejsNote.git"
+  },
+  "author": "Khor Chun Leong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leongge/nodejsNote/issues"
+  },
+  "homepage": "https://github.com/Leongge/nodejsNote#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "validator": "^10.11.0"
+  }
+}
